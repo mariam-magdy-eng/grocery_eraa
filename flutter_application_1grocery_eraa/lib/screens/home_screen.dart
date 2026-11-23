@@ -37,13 +37,13 @@ class HomeScreen extends StatelessWidget {
     ];
     final groceries = [
       (
-        image: "assets/redpepper.png",
+        image: "assets/beefbone.png",
         title: "Beef Bone",
         subtitle: "1kg, Priceg",
         price: "\$4.99",
       ),
       (
-        image: "assets/ginger.png",
+        image: "assets/koky.png",
         title: "Broiler Chicken",
         subtitle: "1kg, Priceg",
         price: "\$4.99",
